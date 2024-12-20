@@ -1,3 +1,4 @@
+# Project dependencies
 tensorflow 
 opencv-python 
 matplotlib 
